@@ -2,8 +2,9 @@
 
 Para instalar las dependencias: pip install -r requirements.txt
 
-Este script se encuentra explicado con mas detalles para el proyecto
-De la siguiente forma:
+Este script contiene comentarios explicando la logica que lleva a la ejecucion exitosa del mismo.
+
+Sin embargo tambien se encuentra explicado con mas detalles para el proyecto de la siguiente manera:
 
 1. Versión base - Sin cambios https://colab.research.google.com/drive/1cvQOjSI-oxThSHH0XUaQGUjC8gos8qps?usp=sharing
 2. Versión alterada - Con cambios https://colab.research.google.com/drive/1_qZDAAxgYyJ8G7P90XyUtvUacwPgKppY?usp=sharing
